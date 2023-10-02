@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-12T23:00:04 IST" name="Default suite" finished-at="2023-07-12T23:00:15 IST" duration-ms="10289">
+    <groups>
+    </groups>
+    <test started-at="2023-07-12T23:00:04 IST" name="Default test" finished-at="2023-07-12T23:00:15 IST" duration-ms="10289">
+      <class name="com.qb.qa.testcase.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qb.qa.testcase.LoginPageTest@43301423]" started-at="2023-07-12T23:00:04 IST" name="setUp" finished-at="2023-07-12T23:00:08 IST" duration-ms="3655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.qb.qa.testcase.LoginPageTest@43301423]" started-at="2023-07-12T23:00:08 IST" name="loginPageTitleTest" finished-at="2023-07-12T23:00:08 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qb.qa.testcase.LoginPageTest@43301423]" started-at="2023-07-12T23:00:08 IST" name="tearDown" finished-at="2023-07-12T23:00:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qb.qa.testcase.LoginPageTest@43301423]" started-at="2023-07-12T23:00:08 IST" name="setUp" finished-at="2023-07-12T23:00:11 IST" duration-ms="2969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginText()[pri:2, instance:com.qb.qa.testcase.LoginPageTest@43301423]" started-at="2023-07-12T23:00:11 IST" name="loginText" finished-at="2023-07-12T23:00:11 IST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qb.qa.testcase.LoginPageTest@43301423]" started-at="2023-07-12T23:00:11 IST" name="tearDown" finished-at="2023-07-12T23:00:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qb.qa.testcase.LoginPageTest@43301423]" started-at="2023-07-12T23:00:11 IST" name="setUp" finished-at="2023-07-12T23:00:14 IST" duration-ms="3095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.qb.qa.testcase.LoginPageTest@43301423]" started-at="2023-07-12T23:00:14 IST" name="loginTest" finished-at="2023-07-12T23:00:15 IST" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qb.qa.testcase.LoginPageTest@43301423]" started-at="2023-07-12T23:00:15 IST" name="tearDown" finished-at="2023-07-12T23:00:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qb.qa.testcase.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
